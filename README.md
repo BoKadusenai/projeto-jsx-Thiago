@@ -1,1 +1,1 @@
-# projeto-jsx-Thiago
+# projeto-final-jsx-2-semestre
